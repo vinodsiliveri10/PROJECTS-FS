@@ -1,0 +1,40 @@
+body{
+    background-color: blanchedalmond;
+
+}
+
+.center {
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+  .imag{
+    top:30%;
+    width:60%;
+   margin-left:45%;
+  margin-right: auto;
+  }
+  .but{
+    margin-bottom:35%;
+    margin-top:4%;
+    margin-left:39%;
+    margin-right: auto;
+  }
+  .navbar-nav{
+    
+        padding-left:50px;
+        padding-right:50px;
+      
+  }
+ .form-group{
+  margin-left:35%;
+    margin-right:36%;
+ }
+ #he{
+  margin-left:18%;
+    margin-right:auto;
+ }
+
+  
